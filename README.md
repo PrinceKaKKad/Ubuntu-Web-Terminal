@@ -29,7 +29,10 @@ Welcome to the **Ubuntu Web Terminal**, a Python-powered web-based terminal for 
 - **Website:** [codeestro.com](https://codeestro.com/)
 
 ## GitHub Repository
-Fork the code on [GitHub](https://github.com/PrinceKaKKad/Ubuntu-Web-Terminal).
+
+  ```cmd
+  git clone https://github.com/PrinceKaKKad/Ubuntu-Web-Terminal.git
+  ```
 
 ## License
 This Ubuntu Web Terminal is open-source under the [MIT License](LICENSE). Contributions, issues, and improvements are welcome. Happy terminal-ing!
